@@ -1,0 +1,2 @@
+Typing git add . stages all files in the current directory, while
+typing git add -A stages all files in the repository.
